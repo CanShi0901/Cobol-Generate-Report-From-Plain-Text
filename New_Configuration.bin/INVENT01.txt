@@ -1,0 +1,5 @@
+11111widgets, small      1001000a1234050
+11112widgets,med         1501200a1234050
+11115widgets, large      1001000a1234050
+11122connectors          2500200b2222050
+11124braces              1500200c3333100

@@ -1,0 +1,13 @@
+                  INVENTORY REPORT
+
+ NUMBER PARTNAME                 QTY   VALUE
+
+ 11111  widgets, small           100   0100000
+ 11112  widgets,med              150   0180000
+ 11115  widgets, large           100   0100000
+ 11122  connectors               250   0050000
+ 11124  braces                   150   0030000
+
+ TOTALVALUE       $460,000
+
+ RECORDS READ    00005 RECORDS WRITTEN 00005
